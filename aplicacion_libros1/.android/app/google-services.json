@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498024019880",
+    "project_id": "biblioteca-secreta-30e6c",
+    "storage_bucket": "biblioteca-secreta-30e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498024019880:android:162016db515f9173478f9d",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_libros1.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498024019880-vofv673e8nhtjngo4ec2jpbhisbeqtb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicacion_libros1.host",
+            "certificate_hash": "e6cc30e172ccb1b0d6455afdcfd6d73a20bd4551"
+          }
+        },
+        {
+          "client_id": "498024019880-bg2bse844fn8k6bih96fogucfmtm6tjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjNGSwP7cqrZvfrrMCtcOJbLPHAb1ce8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498024019880-bg2bse844fn8k6bih96fogucfmtm6tjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

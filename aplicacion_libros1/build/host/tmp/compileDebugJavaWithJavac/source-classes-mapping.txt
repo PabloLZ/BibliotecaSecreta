@@ -1,0 +1,4 @@
+com/example/aplicacion_libros1/host/BuildConfig.java
+ com.example.aplicacion_libros1.host.BuildConfig
+com/example/aplicacion_libros1/host/MainActivity.java
+ com.example.aplicacion_libros1.host.MainActivity
