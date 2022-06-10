@@ -22,5 +22,6 @@ Depends on all your plugins, and provides a function to register them.
   s.dependency 'cloud_firestore'
   s.dependency 'firebase_auth'
   s.dependency 'firebase_core'
+  s.dependency 'firebase_database'
   s.dependency 'google_sign_in_ios'
 end
